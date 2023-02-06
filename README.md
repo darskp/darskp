@@ -1,3 +1,5 @@
+[![MasterHead](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)](https://darskp.io)
+
 <h1 align="center">Hi 👋, I'm Darshan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
