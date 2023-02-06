@@ -3,9 +3,9 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darskp&label=Profile%20views&color=0e75b6&style=flat" alt="darskp" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN Full Stack**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **darshanpatgar100@gmail.com**
 
