@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg218P0FPCeRa0SzU-j_T6N4VZWNhjs0jb5Uyjc343oRwmBXMnK2rdGkW-lxqAGSWbq-_0kbFA4WM3fNJgqjdSzy3x7SfMuOoma_WTIXeacRwYMbAlIE_oKEZGHUaIbPiPiYK4bIugDnclTclVBGtDXimo2Ve8yKyoWQZ33MglLkomiOdDOAEppURVBoA/s16000/Frontend-developer.gif)](https://darskp.io)
 
-<h1 align="center">Hi 👋, I'm Darshan Kumar</h1>
+<h1 align="center">Hi 👋,<br/><br/> I'm Darshan Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHlbNGhB7QhkHWYvFxhuHaAr7Sr4-lULnLv9BCkQZZbhWINvKJucA9Q6gU3JPcNiRStE3uqqeb3c-WMNtRQRDR5eu9X_IEpZodPo46ZiKaVQZgDAHPvAxjLBTcz13ISeK1WyDn2cdfbTHHim4xJoHw4n-chlaAcRwToBCqx3yNDB451P3AtxUwS-w9Yg/s16000/l.gif" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darskp&label=Profile%20views&color=0e75b6&style=flat" alt="darskp" /> </p>
