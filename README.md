@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)](https://darskp.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg218P0FPCeRa0SzU-j_T6N4VZWNhjs0jb5Uyjc343oRwmBXMnK2rdGkW-lxqAGSWbq-_0kbFA4WM3fNJgqjdSzy3x7SfMuOoma_WTIXeacRwYMbAlIE_oKEZGHUaIbPiPiYK4bIugDnclTclVBGtDXimo2Ve8yKyoWQZ33MglLkomiOdDOAEppURVBoA/s16000/Frontend-developer.gif)](https://darskp.io)
 
 <h1 align="center">Hi 👋, I'm Darshan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
