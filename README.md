@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg218P0FPCeRa0SzU-j_T6N4VZWNhjs0jb5Uyjc343oRwmBXMnK2rdGkW-lxqAGSWbq-_0kbFA4WM3fNJgqjdSzy3x7SfMuOoma_WTIXeacRwYMbAlIE_oKEZGHUaIbPiPiYK4bIugDnclTclVBGtDXimo2Ve8yKyoWQZ33MglLkomiOdDOAEppURVBoA/s16000/Frontend-developer.gif)](https://darskp.io)
 
 <h1 align="center">Hi 👋, I'm Darshan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darskp&label=Profile%20views&color=0e75b6&style=flat" alt="darskp" /> </p>
 
@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **darshanpatgar100@gmail.com**
-
+- <p align="left">📫 How to reach me  <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKTqkOd70oRB2GhA_OqlaolZcKARbY5YuYhgvDpcg3HnIrH8QBXC4d6UnYfrMM9gs8GF3QhJuJ5M4wlHT1NQiK9wV_QjEcDqP_uZsfUMGUziTSDfA-f_qO_68qF-tzpIHWnOt1rCnOcuRwDwPQgidCWIftU9ETt-AEKgRzsLIzanoRILN47JBlGKMnhA/s16000/Capture.PNG" height="22" alt="darskp" /> </p>
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
