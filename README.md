@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **ReactJS**
 
 - <p align="left">📫 How to reach me  <a href="#"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKTqkOd70oRB2GhA_OqlaolZcKARbY5YuYhgvDpcg3HnIrH8QBXC4d6UnYfrMM9gs8GF3QhJuJ5M4wlHT1NQiK9wV_QjEcDqP_uZsfUMGUziTSDfA-f_qO_68qF-tzpIHWnOt1rCnOcuRwDwPQgidCWIftU9ETt-AEKgRzsLIzanoRILN47JBlGKMnhA/s16000/Capture.PNG" height="22" alt="darshanpatgar100@gmail.com" /> </a></p>
 - ⚡ Fun fact **I think I am Funny**
