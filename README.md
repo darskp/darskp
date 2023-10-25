@@ -12,11 +12,6 @@
 - <p align="left">📫 How to reach me  <a href="#"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKTqkOd70oRB2GhA_OqlaolZcKARbY5YuYhgvDpcg3HnIrH8QBXC4d6UnYfrMM9gs8GF3QhJuJ5M4wlHT1NQiK9wV_QjEcDqP_uZsfUMGUziTSDfA-f_qO_68qF-tzpIHWnOt1rCnOcuRwDwPQgidCWIftU9ETt-AEKgRzsLIzanoRILN47JBlGKMnhA/s16000/Capture.PNG" height="22" alt="darshanpatgar100@gmail.com" /> </a></p>
 - ⚡ Fun fact **I think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/darshan-kumar-patgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-kumar-patgar" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
