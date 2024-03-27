@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHlbNGhB7QhkHWYvFxhuHaAr7Sr4-lULnLv9BCkQZZbhWINvKJucA9Q6gU3JPcNiRStE3uqqeb3c-WMNtRQRDR5eu9X_IEpZodPo46ZiKaVQZgDAHPvAxjLBTcz13ISeK1WyDn2cdfbTHHim4xJoHw4n-chlaAcRwToBCqx3yNDB451P3AtxUwS-w9Yg/s16000/l.gif" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darskp&label=Profile%20views&color=0e75b6&style=flat" alt="darskp" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=darskp)](https://github.com/ryo-ma/github-profile-trophy)</br>
 - 🌱 I’m currently learning **MERN Full Stack**
 
 - 💬 Ask me about **ReactJS**
