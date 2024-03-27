@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I think I am Funny**
 
 ## 🏆 GitHub Trophies
- [![trophy](https://github-profile-trophy.vercel.app/?username=darskp&theme=gitdimmed&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=darskp&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Language and tools
 <div align="left">
